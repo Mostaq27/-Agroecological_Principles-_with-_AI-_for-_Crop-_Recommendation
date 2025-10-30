@@ -1,1 +1,1 @@
-# -Agroecological_Principles-_with_AI_for_Crop_Recommendation
+# -Agroecological_Principles_with_AI_for_Crop_Recommendation
